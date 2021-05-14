@@ -275,9 +275,9 @@ client.focused #00ABBF #00ABBF #00ABBF #ffe570
 
 bindsym $mod+c exec /home/oscar/.config/i3/script/webcam.sh
 
-exec_always loadkeys la-latin1
+exec_always setxkbmap -layout es
 #exec_always /home/oscar/.config/i3/script/monitors.sh 
-exec_always /home/oscuro/.config/i3/script/wallpaper.sh
+exec_always /home/oscar/.config/i3/script/wallpaper.sh
 exec picom
 exec dunst
 exec_always nm-applet

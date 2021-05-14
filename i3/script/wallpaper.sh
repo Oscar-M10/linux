@@ -16,4 +16,4 @@ wall="${l[RANDOM%${#l[@]}]}"
 feh --bg-fill "$wall"
 EOF
 
-feh --bg-fill --randomize /home/oscuro/.config/i3/wallpapers/*.jpg
+feh --bg-fill --randomize /home/oscar/.config/i3/wallpapers/*.jpg
