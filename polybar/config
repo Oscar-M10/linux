@@ -61,7 +61,7 @@ font-5 = Font Awesome 5 Brands:pixelsize=12;2
 ;spotify se incluye en el campo en "modules-right"
 modules-left =i3
 modules-center = xwindow  
-modules-right =  filesystem pulseaudio memory cpu wlan eth battery temperature date powermenu
+modules-right =  spotify filesystem pulseaudio memory cpu wlan eth battery temperature date powermenu
 ;separator= |
 tray-position = none
 tray-padding = 2
@@ -159,9 +159,14 @@ wrapping-scroll = false
 ; Only show workspaces on the same output as the bar
 ;pin-workspaces = true
 ws-icon-0 = 1;
-ws-icon-1 = 2;
-ws-icon-2 = 3;
-ws-icon-3 = 4;
+ws-icon-1 = 2; 
+ws-icon-2 = 3;
+ws-icon-3 = 4;
+ws-icon-4 = 5;
+ws-icon-5 = 6;
+
+
+
 
 label-mode-padding = 2
 label-mode-foreground = #000

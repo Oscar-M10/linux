@@ -216,10 +216,12 @@ bindsym $mod+Shift+a gaps inner all minus 2; gaps outer all minus 2;
 bindsym $mod+Shift+g gaps inner all plus 2; gaps outer all plus 2;
 
 # això és per es espais de treball
-assign [class="alacritty"] $ws1
-assign [class="firefox"] $ws2
-assign [class="nautilus"] $ws3
-assign [class="spotify"] $ws10
+assign [class="Alacritty"] $ws1
+assign [class="VSCodium"]$ws2
+assign [class="firefox"] $ws3
+#assign [class=""]$ws4
+assign [class="Org.gnome.Nautilus"] $ws6
+assign [class="spotify"] $ws5
 
 #Open specific applications in floaing mode
 for_window [title="video0 - mpv"] floating enable
@@ -281,6 +283,12 @@ exec_always /home/oscar/.config/i3/script/wallpaper.sh
 exec picom
 exec dunst
 exec_always nm-applet
+exec_always systemctl enable dhcpcd@eth0
+exec_always systemctl enable NetworkManager --now
+exec_always systemctl enable dhcpcd@eth0
+exec_always systemctl enable dhcpcd
+exec_always systemctl start dhcpcd@eth0
+exec-always systemctl start dhcpcd
 
 #NO bordes de pantallas
 for_window [class="^.*"] border pixel 3
