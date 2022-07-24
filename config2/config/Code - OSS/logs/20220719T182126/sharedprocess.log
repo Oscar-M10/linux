@@ -1,0 +1,9 @@
+[2022-07-19 18:21:30.604] [sharedprocess] [info] Starting worker process with pid 14674 (type: fileWatcher, window: 1).
+[2022-07-19 18:21:36.574] [sharedprocess] [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+[2022-07-19 18:21:36.843] [sharedprocess] [info] Installing extension: ms-ceintl.vscode-language-pack-es
+[2022-07-19 18:21:40.542] [sharedprocess] [info] Downloaded extension: ms-ceintl.vscode-language-pack-es /home/oscar/.config/Code - OSS/CachedExtensionVSIXs/ms-ceintl.vscode-language-pack-es-1.69.0
+[2022-07-19 18:21:40.750] [sharedprocess] [info] Extracted extension to /home/oscar/.vscode-oss/extensions/.3fa1fcd6-f0e0-42b8-99db-9be3773905eb: ms-ceintl.vscode-language-pack-es
+[2022-07-19 18:21:40.761] [sharedprocess] [info] Renamed to /home/oscar/.vscode-oss/extensions/ms-ceintl.vscode-language-pack-es-1.69.0
+[2022-07-19 18:21:40.763] [sharedprocess] [info] Extracting completed. ms-ceintl.vscode-language-pack-es
+[2022-07-19 18:21:40.763] [sharedprocess] [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-es
+[2022-07-19 18:21:40.856] [sharedprocess] [info] Extension installed successfully: ms-ceintl.vscode-language-pack-es

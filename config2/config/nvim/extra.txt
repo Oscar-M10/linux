@@ -1,0 +1,11 @@
+software extra para que funcione correctamente neovim
+
+
+1. sudo pacman -S npm
+2. npm i -g yarn
+3. :CocInstall ->
+							 - coc-json
+							 - coc-html
+							 - coc-git
+							 - coc-python
+

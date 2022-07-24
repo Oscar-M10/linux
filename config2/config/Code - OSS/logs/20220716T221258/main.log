@@ -1,0 +1,4 @@
+[2022-07-16 22:12:58.449] [main] [info] update#ctor - updates are disabled as there is no update URL
+[2022-07-16 22:13:00.518] [main] [info] Starting extension host with pid 2799 (fork() took 76 ms).
+[2022-07-16 22:13:25.854] [main] [info] Extension host with pid 2799 exited with code: 0, signal: null.
+[2022-07-16 22:13:25.869] [main] [info] Waiting for extension host with pid 2799 to exit.

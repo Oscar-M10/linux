@@ -1,0 +1,4 @@
+[2022-07-17 12:14:53.666] [main] [info] update#ctor - updates are disabled as there is no update URL
+[2022-07-17 12:14:55.736] [main] [info] Starting extension host with pid 3912 (fork() took 15 ms).
+[2022-07-17 12:16:17.573] [main] [info] Waiting for extension host with pid 3912 to exit.
+[2022-07-17 12:16:17.596] [main] [info] Extension host with pid 3912 exited with code: 0, signal: null.

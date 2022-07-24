@@ -1,0 +1,5 @@
+[2022-07-19 18:22:02.971] [sharedprocess] [info] Starting worker process with pid 15467 (type: fileWatcher, window: 1).
+[2022-07-19 18:22:12.813] [sharedprocess] [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+[2022-07-19 18:22:13.204] [sharedprocess] [info] Installing extension: ms-ceintl.vscode-language-pack-es
+[2022-07-19 18:22:13.482] [sharedprocess] [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-es
+[2022-07-19 18:22:13.584] [sharedprocess] [info] Extension installed successfully: ms-ceintl.vscode-language-pack-es

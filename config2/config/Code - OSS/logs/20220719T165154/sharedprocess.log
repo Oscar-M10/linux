@@ -1,0 +1,15 @@
+[2022-07-19 16:51:59.419] [sharedprocess] [info] Starting worker process with pid 14740 (type: fileWatcher, window: 1).
+[2022-07-19 16:52:19.677] [sharedprocess] [info] Getting Manifest... ms-azuretools.vscode-docker
+[2022-07-19 16:52:19.890] [sharedprocess] [info] Installing extension: ms-azuretools.vscode-docker
+[2022-07-19 16:52:34.819] [sharedprocess] [info] Downloaded extension: ms-azuretools.vscode-docker /home/oscar/.config/Code - OSS/CachedExtensionVSIXs/ms-azuretools.vscode-docker-1.22.1
+[2022-07-19 16:52:35.011] [sharedprocess] [info] Extracted extension to /home/oscar/.vscode-oss/extensions/.7acc234a-cf34-49db-baa8-6f3216ab01d7: ms-azuretools.vscode-docker
+[2022-07-19 16:52:35.022] [sharedprocess] [info] Renamed to /home/oscar/.vscode-oss/extensions/ms-azuretools.vscode-docker-1.22.1
+[2022-07-19 16:52:35.033] [sharedprocess] [info] Extracting completed. ms-azuretools.vscode-docker
+[2022-07-19 16:52:35.040] [sharedprocess] [info] Extension installed successfully: ms-azuretools.vscode-docker
+[2022-07-19 16:54:42.042] [sharedprocess] [info] Getting Manifest... dracula-theme.theme-dracula
+[2022-07-19 16:54:42.235] [sharedprocess] [info] Installing extension: dracula-theme.theme-dracula
+[2022-07-19 16:54:44.601] [sharedprocess] [info] Downloaded extension: dracula-theme.theme-dracula /home/oscar/.config/Code - OSS/CachedExtensionVSIXs/dracula-theme.theme-dracula-2.24.2
+[2022-07-19 16:54:44.614] [sharedprocess] [info] Extracted extension to /home/oscar/.vscode-oss/extensions/.21b70594-6503-43a4-95ef-0d1320b8a8bf: dracula-theme.theme-dracula
+[2022-07-19 16:54:44.622] [sharedprocess] [info] Renamed to /home/oscar/.vscode-oss/extensions/dracula-theme.theme-dracula-2.24.2
+[2022-07-19 16:54:44.624] [sharedprocess] [info] Extracting completed. dracula-theme.theme-dracula
+[2022-07-19 16:54:44.625] [sharedprocess] [info] Extension installed successfully: dracula-theme.theme-dracula

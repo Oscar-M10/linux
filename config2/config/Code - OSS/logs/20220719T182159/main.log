@@ -1,0 +1,4 @@
+[2022-07-19 18:21:59.206] [main] [info] update#ctor - updates are disabled as there is no update URL
+[2022-07-19 18:22:01.357] [main] [info] Starting extension host with pid 15432 (fork() took 16 ms).
+[2022-07-19 18:22:13.643] [main] [info] Extension host with pid 15432 exited with code: 0, signal: null.
+[2022-07-19 18:22:13.648] [main] [info] Waiting for extension host with pid 15432 to exit.

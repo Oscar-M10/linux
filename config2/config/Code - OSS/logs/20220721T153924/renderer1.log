@@ -1,0 +1,6 @@
+[2022-07-21 15:39:29.799] [renderer1] [error] Server returned 503: Error: Server returned 503
+    at S (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:629:22251)
+    at j.queryRawGalleryExtensions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:803:162923)
+    at async j.queryGalleryExtensions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:803:160015)
+    at async le (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:803:158985)
+    at async j.query (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:803:159225)
